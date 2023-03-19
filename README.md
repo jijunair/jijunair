@@ -1,7 +1,7 @@
 ## Senior Full Stack Developer | Solution Architect | 12+ Years Experience 
 What I can/know/etc.:<br>✒ Web-development (Laravel, CodeIgniter, CakePHP, React, Vue, jQuery, Backbone.js, Node.js, Angular.js, etc.)<br>✒ Mobile-development (Flutter, Android, Cordova, Phonegap, Ionic, jQuery Mobile, etc.)<br>✒ Web-servers:: (Apache, Nginx)<br>✒ Some webdesign/UI/UX skills (Figma, Sketch, etc)<br>✒ Video-processing, Image-processing, Data-processing (FFmpeg, ImageMagick, NumPy)<br>✒ Special: bot development, Chrome extensions, Automation.
 
-[![Upwork](https://img.shields.io/badge/Upwork-%2139F00.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/jiju?s=1110580755107926016) [![Website](https://img.shields.io/badge/-Website-FE7A16?logo=joplin&logoColor=white)](https://jijunair.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiju-nair)
+[![Upwork](https://img.shields.io/badge/Upwork-%2139F00.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/jiju) [![Website](https://img.shields.io/badge/-Website-FE7A16?logo=joplin&logoColor=white)](https://jijunair.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiju-nair)
 <br><br>
 ## Skills & expertise:
 
