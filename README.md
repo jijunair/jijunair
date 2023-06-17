@@ -12,7 +12,7 @@ What I can/know/etc.:<br>✒ Web-development (Laravel, CodeIgniter, CakePHP, Rea
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jijunair&theme=tokyonight&hide_border=true)
 
 
-![](https://github-profile-trophy.vercel.app/?username=jijunair&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jijunair&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jijunair&icon=5&color=6)](https://visitcount.itsvg.in)
