@@ -12,7 +12,7 @@ What I can/know/etc.:<br>✒ Web-development (Laravel, CodeIgniter, CakePHP, Rea
 
 <p align="center">
    <img
-       src="https://github-readme-stats-sigma-ochre.vercel.app/api?username=jijunair&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats-sigma-ochre.vercel.app/api?username=jijunair&theme=tokyonight&hide_border=true&count_private=true"
        alt="My GitHub stats"
      />
 </p>
