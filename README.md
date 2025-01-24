@@ -19,7 +19,7 @@ What I can/know/etc.:<br>✒ AI-development (Stable Diffusion, OpenAI)<br>✒ We
 
 <p align="center">
    <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=jijunair&theme=tokyonight&hide_border=true"
+       src="https://github-readme-streak-stats-wine-two.vercel.app/?user=jijunair&theme=tokyonight&hide_border=true"
        alt="My GitHub Streaks"
      />
 </p>
